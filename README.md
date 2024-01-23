@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello All
+### My page will house my coding projects and my progress
 
 <!--
 **rhodemr/rhodemr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
